@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	D:\Kuliah\Semester 3\PBO\booker1\Booker.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Kuliah\Semester 3\PBO\booker1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Java
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-22\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\hadoop-3.3.6\bin;C:\hadoop-3.3.6\sbin;C:\Java\bin;C:\hadoop-3.3.6\bin;C:\hadoop-3.3.6\sbin;C:\spark\spark-3.5.2-bin-hadoop3\bin;C:\pig-0.17.0\bin;C:\derby\bin;C:\hive\bin;C:\Program Files\Apache\Maven\apache-maven-3.9.9\bin;C:\Users\David\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\David\AppData\Local\Programs\Python\Python311\;C:\Users\David\AppData\Local\Microsoft\WindowsApps;C:\Users\David\AppData\Local\Programs\Microsoft VS Code\bin;C:\Java\bin;C:\spark\spark-3.5.2-bin-hadoop3\bin;C:\pig-0.17.0\bin;C:\wget;C:\Java\bin
+JRE paths:	C:\Java;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-22\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\hadoop-3.3.6\bin;C:\hadoop-3.3.6\sbin;C:\Java\bin;C:\hadoop-3.3.6\bin;C:\hadoop-3.3.6\sbin;C:\spark\spark-3.5.2-bin-hadoop3\bin;C:\pig-0.17.0\bin;C:\derby\bin;C:\hive\bin;C:\Program Files\Apache\Maven\apache-maven-3.9.9\bin;C:\Users\David\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\David\AppData\Local\Programs\Python\Python311\;C:\Users\David\AppData\Local\Microsoft\WindowsApps;C:\Users\David\AppData\Local\Programs\Microsoft VS Code\bin;C:\Java\bin;C:\spark\spark-3.5.2-bin-hadoop3\bin;C:\pig-0.17.0\bin;C:\wget;C:\Java\bin
+Check launcher:	C:\Java\bin\javaw.exe (OK)
+Version string: 1.008.000_231 / 64-Bit (OK)
+Launcher:	C:\Java\bin\javaw.exe
+Launcher args:	-jar "D:\Kuliah\Semester 3\PBO\booker1\Booker.exe"
+Args length:	50/32768 chars
+Exit code:	0
